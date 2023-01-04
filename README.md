@@ -20,15 +20,16 @@ This project aims to implement a hybrid cloud solution that allows an organizati
 * Experience with security and compliance in cloud environments.
 ## Getting Started
 * Review the project objectives and deliverables to ensure a clear understanding of the scope of the project.
-* t up a cloud account with a provider such as AWS, Azure, or GCP.
+* set up a cloud account with a provider such as AWS, Azure, or GCP.
 * Begin designing the hybrid cloud architecture, taking into account the organization's existing on-premises resources and the desired capabilities of the cloud.
 * Develop a plan for migrating on-premises workloads to the cloud.
 * Implement tools and processes for integrating on-premises and cloud resources.
 * Implement security and compliance controls in the hybrid cloud environment.
 * Develop a plan for ongoing management and maintenance of the hybrid cloud.
 ## Resources
-* AWS Hybrid Cloud Deployment
+
 * Cloud platform documentation for AWS, Azure, or GCP.
 * Best practices for hybrid cloud deployment:
-* Azure Hybrid Cloud Deployment
-* GCP Hybrid Cloud Deployment
+** Azure Hybrid Cloud Deployment
+** AWS Hybrid Cloud Deployment
+** GCP Hybrid Cloud Deployment
