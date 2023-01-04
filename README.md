@@ -1,6 +1,10 @@
 # Hybrid Cloud Deployment
 This project aims to implement a hybrid cloud solution that allows an organization to use both on-premises and cloud infrastructure. The goal of the project is to enable the organization to take advantage of the flexibility and scalability of the cloud while still being able to leverage their existing on-premises resources.
-
+## Key Components
+* Integration of on-premises and cloud infrastructure using technologies such as VPNs and cross-cloud connectivity tools.
+* Implementation of a hybrid cloud management platform to allow for the centralized management of both on-premises and cloud resources.
+* Creation of a disaster recovery plan to ensure the availability of critical systems and data in the event of an outage or other disruption.
+* Implementation of security and compliance controls to protect sensitive data and meet regulatory requirements.
 # Objectives
 * Design and implement a hybrid cloud architecture that meets the needs of the organization.
 * Migrate existing on-premises workloads to the cloud as appropriate.
@@ -26,10 +30,3 @@ This project aims to implement a hybrid cloud solution that allows an organizati
 * Implement tools and processes for integrating on-premises and cloud resources.
 * Implement security and compliance controls in the hybrid cloud environment.
 * Develop a plan for ongoing management and maintenance of the hybrid cloud.
-## Resources
-
-* Cloud platform documentation for AWS, Azure, or GCP.
-* Best practices for hybrid cloud deployment:
-** Azure Hybrid Cloud Deployment
-** AWS Hybrid Cloud Deployment
-** GCP Hybrid Cloud Deployment
