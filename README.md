@@ -1,5 +1,5 @@
 # Hybrid Cloud Deployment
-This project aims to implement a hybrid cloud solution that allows an organization to use both on-premises and cloud infrastructure. The goal of the project is to enable the organization to take advantage of the flexibility and scalability of the cloud while still being able to leverage their existing on-premises resources.
+This project aims to implement a **hybrid cloud solution** that allows an organization to use both on-premises and cloud infrastructure. The goal of the project is to enable the organization to take advantage of the flexibility and scalability of the cloud while still being able to leverage their existing on-premises resources.
 ## Key Components
 * Integration of on-premises and cloud infrastructure using technologies such as VPNs and cross-cloud connectivity tools.
 * Implementation of a hybrid cloud management platform to allow for the centralized management of both on-premises and cloud resources.
