@@ -32,6 +32,9 @@ This project aims to implement a **hybrid cloud solution** that allows an organi
 * Develop a plan for ongoing management and maintenance of the hybrid cloud.
 
 ## Maintenance
+
+## Acknowledgement
+GPS
 To maintain the hybrid cloud deployment, consider the following best practices:
 
 * Monitor the hybrid cloud environment for any performance issues or errors.
