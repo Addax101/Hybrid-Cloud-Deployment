@@ -33,8 +33,7 @@ This project aims to implement a **hybrid cloud solution** that allows an organi
 
 ## Maintenance
 
-## Acknowledgement
-GPS
+
 To maintain the hybrid cloud deployment, consider the following best practices:
 
 * Monitor the hybrid cloud environment for any performance issues or errors.
@@ -51,3 +50,6 @@ To contribute to the hybrid cloud deployment project, please follow these guidel
 * Test your changes thoroughly before submitting a pull request.
 # License
 This project is licensed under the [Insert License Name] License. See the LICENSE file for details.
+
+## Acknowledgement
+GPS
