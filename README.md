@@ -52,4 +52,4 @@ To contribute to the hybrid cloud deployment project, please follow these guidel
 This project is licensed under the [Insert License Name] License. See the LICENSE file for details.
 
 ## Acknowledgement
-GPS
+GPS(All the details can be found on her youtube channel)
